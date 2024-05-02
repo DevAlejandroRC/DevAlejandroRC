@@ -1,7 +1,6 @@
 <h1>Hi, I'm Daniel Romero <img src="https://github.com/DevAlejandroRC/DevAlejandroRC/assets/53066396/6b75b00f-0f8d-44ec-9f59-4dfc1e5536fc" alt="Hand Waving" width="60px"/></h1>
 
 [![Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=3E83CF&random=false&width=435&lines=%3C%2F%3E+Developer)](https://git.io/typing-svg)
----
 ## 👨🏻‍💻 About me
 **Systems engineer** and support analyst with experience in report design and automation, technical support, network configuration, and web development. Expertise in Java, JavaScript, HTML, CSS, React, Redux, Node.js, SQL, Git, and Linux. Graduated with honors and certifications in information technologies.
 <img src="https://github.com/DevAlejandroRC/DevAlejandroRC/assets/53066396/030eb6ae-fd6b-4af9-a35a-6b2803013988#alignleft" alt="ghost" width="150px" align="right"/>
