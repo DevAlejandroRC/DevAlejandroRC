@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi, I'm Daniel Romero <img src="" alt="Hand Waving" width="60px"/></h1>
 
 <!--
 **DevAlejandroRC/DevAlejandroRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
